@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Report xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="26b7306c-d0fa-4de5-8345-ad9a05a89028">
+  <producedTypes>
+    <objectType typeId="5365ac1e-5301-4edb-8226-58fb655b5861" valueTypeId="a00b3757-f546-4e42-aa8e-49ba491d3276"/>
+    <managerType typeId="f3684f03-56e4-4b6d-9961-e7ebf4f190a6" valueTypeId="a37819b6-adcb-4c5a-8c75-fd236ceb954d"/>
+  </producedTypes>
+  <name>Тест</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:Report>

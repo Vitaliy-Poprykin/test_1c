@@ -26,4 +26,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Тест</catalogs>
+  <reports>Report.Тест</reports>
 </mdclass:Configuration>
