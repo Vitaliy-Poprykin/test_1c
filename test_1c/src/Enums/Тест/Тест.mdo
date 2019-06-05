@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="8e699ff0-1c8f-4c3d-827b-6ce0cc5e529b">
+  <producedTypes>
+    <refType typeId="afe2c7b3-4961-454e-aa81-fffdf58294e4" valueTypeId="f028e13c-6ec1-4a60-8436-dd04acc1913e"/>
+    <listType typeId="b74215ed-cc60-4d74-a0ce-7e10518330c0" valueTypeId="9b1256d3-d680-4407-97c3-b8672562d357"/>
+    <managerType typeId="6dcb6845-9a0c-4f78-85b0-a2d7c00d4486" valueTypeId="22a1719a-f7df-4284-bb4b-94614ea2bd30"/>
+  </producedTypes>
+  <name>Тест</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>

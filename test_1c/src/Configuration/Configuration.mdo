@@ -25,4 +25,5 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <enums>Enum.Тест</enums>
 </mdclass:Configuration>
